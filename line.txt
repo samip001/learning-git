@@ -15,4 +15,6 @@ adiing number only:
 
 hey just trying to contribute in this text file
 
-I think i just solved issue
+I think i just solved issue.
+
+this fixes the issue
