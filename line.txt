@@ -4,3 +4,6 @@ second line
 4rth line
 5th line 
 6th line
+
+adding sentence below
+learning git is fun
